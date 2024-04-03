@@ -4337,7 +4337,7 @@ input[type="button"].btn-block {
 .navbar-dark .navbar-nav .active > .nav-link,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .nav-link.active {
-  color: #fff;
+  color: #ee293b;
 }
 
 .navbar-dark .navbar-toggler {
@@ -9507,7 +9507,7 @@ h6,
 
 .navbar-dark .navbar-nav .nav-link {
   padding: 20px 15px;
-  color: #ee293b;
+  color: #FFFFFF;
   font-weight: 500;
   text-transform: uppercase;
   outline: none;
